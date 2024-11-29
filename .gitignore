@@ -1,0 +1,79 @@
+# Ignore the build output directories
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]evelopment/
+[Dd]elivery/
+
+# Ignore the release output directories
+[Rr]elease/
+[Rr]eleasePublic/
+[Rr]eleases/
+
+# User-specific files
+.vs/
+.vs2019/
+.vs2017/
+.idea/
+
+# User-specific configuration files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer database files
+*.rdlc
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+
+# Ignore all logs
+*.log
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+# Ignore the ASP.NET temporary files
+TemporaryASP.NET*
+
+# JetBrains Rider
+.idea/
+
+# Windows Installer
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Node.js/Package Manager
+node_modules/
+
+# JetBrains Rider IDE
+.idea/
+
+# Visual Studio for Mac
+.vscode/
+
+# Windows Installer (Windows-based)
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer database files
+*.rdlc
+
+# Windows Application Packaging project files
+*.appx
+*.appxbundle
